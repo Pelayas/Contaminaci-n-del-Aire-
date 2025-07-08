@@ -1,0 +1,70 @@
+Zona: Zona_1
+CO2 actual: 600.00 ppm - Predicción: 425.72 ppm
+SO2 actual: 30.00 µg/m³ - Predicción: 16.80 µg/m³
+NO2 actual: 50.00 µg/m³ - Predicción: 32.66 µg/m³
+PM2.5 actual: 40.00 µg/m³ - Predicción: 22.43 µg/m³
+Alerta: CO2 elevado (Actual: 600.00 ppm, Predicción: 425.72 ppm)
+Alerta: SO2 elevado (Actual: 30.00 µg/m³, Predicción: 16.80 µg/m³)
+Alerta: NO2 elevado (Actual: 50.00 µg/m³, Predicción: 32.66 µg/m³)
+Alerta: PM2.5 elevado (Actual: 40.00 µg/m³, Predicción: 22.43 µg/m³)
+Recomendaciones:
+-> Suspender actividades al aire libre.
+-> Restringir uso de vehículos privados.
+-> Limitar producción industrial temporalmente.
+------------------------------------------------------------
+Zona: Zona_2
+CO2 actual: 600.00 ppm - Predicción: 442.67 ppm
+SO2 actual: 30.00 µg/m³ - Predicción: 19.30 µg/m³
+NO2 actual: 50.00 µg/m³ - Predicción: 36.68 µg/m³
+PM2.5 actual: 40.00 µg/m³ - Predicción: 24.87 µg/m³
+Alerta: CO2 elevado (Actual: 600.00 ppm, Predicción: 442.67 ppm)
+Alerta: SO2 elevado (Actual: 30.00 µg/m³, Predicción: 19.30 µg/m³)
+Alerta: NO2 elevado (Actual: 50.00 µg/m³, Predicción: 36.68 µg/m³)
+Alerta: PM2.5 elevado (Actual: 40.00 µg/m³, Predicción: 24.87 µg/m³)
+Recomendaciones:
+-> Suspender actividades al aire libre.
+-> Restringir uso de vehículos privados.
+-> Limitar producción industrial temporalmente.
+------------------------------------------------------------
+Zona: Zona_3
+CO2 actual: 600.00 ppm - Predicción: 425.72 ppm
+SO2 actual: 30.00 µg/m³ - Predicción: 16.80 µg/m³
+NO2 actual: 50.00 µg/m³ - Predicción: 32.66 µg/m³
+PM2.5 actual: 40.00 µg/m³ - Predicción: 22.43 µg/m³
+Alerta: CO2 elevado (Actual: 600.00 ppm, Predicción: 425.72 ppm)
+Alerta: SO2 elevado (Actual: 30.00 µg/m³, Predicción: 16.80 µg/m³)
+Alerta: NO2 elevado (Actual: 50.00 µg/m³, Predicción: 32.66 µg/m³)
+Alerta: PM2.5 elevado (Actual: 40.00 µg/m³, Predicción: 22.43 µg/m³)
+Recomendaciones:
+-> Suspender actividades al aire libre.
+-> Restringir uso de vehículos privados.
+-> Limitar producción industrial temporalmente.
+------------------------------------------------------------
+Zona: Zona_4
+CO2 actual: 600.00 ppm - Predicción: 442.67 ppm
+SO2 actual: 30.00 µg/m³ - Predicción: 19.30 µg/m³
+NO2 actual: 50.00 µg/m³ - Predicción: 36.68 µg/m³
+PM2.5 actual: 40.00 µg/m³ - Predicción: 24.87 µg/m³
+Alerta: CO2 elevado (Actual: 600.00 ppm, Predicción: 442.67 ppm)
+Alerta: SO2 elevado (Actual: 30.00 µg/m³, Predicción: 19.30 µg/m³)
+Alerta: NO2 elevado (Actual: 50.00 µg/m³, Predicción: 36.68 µg/m³)
+Alerta: PM2.5 elevado (Actual: 40.00 µg/m³, Predicción: 24.87 µg/m³)
+Recomendaciones:
+-> Suspender actividades al aire libre.
+-> Restringir uso de vehículos privados.
+-> Limitar producción industrial temporalmente.
+------------------------------------------------------------
+Zona: Zona_5
+CO2 actual: 600.00 ppm - Predicción: 425.72 ppm
+SO2 actual: 30.00 µg/m³ - Predicción: 16.80 µg/m³
+NO2 actual: 50.00 µg/m³ - Predicción: 32.66 µg/m³
+PM2.5 actual: 40.00 µg/m³ - Predicción: 22.43 µg/m³
+Alerta: CO2 elevado (Actual: 600.00 ppm, Predicción: 425.72 ppm)
+Alerta: SO2 elevado (Actual: 30.00 µg/m³, Predicción: 16.80 µg/m³)
+Alerta: NO2 elevado (Actual: 50.00 µg/m³, Predicción: 32.66 µg/m³)
+Alerta: PM2.5 elevado (Actual: 40.00 µg/m³, Predicción: 22.43 µg/m³)
+Recomendaciones:
+-> Suspender actividades al aire libre.
+-> Restringir uso de vehículos privados.
+-> Limitar producción industrial temporalmente.
+------------------------------------------------------------

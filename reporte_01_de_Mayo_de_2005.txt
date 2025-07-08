@@ -1,0 +1,40 @@
+Zona: Zona_1
+CO2 actual: 450.00 ppm - Predicción: 428.08 ppm
+SO2 actual: 10.00 µg/m³ - Predicción: 16.42 µg/m³
+NO2 actual: 30.00 µg/m³ - Predicción: 32.57 µg/m³
+PM2.5 actual: 20.00 µg/m³ - Predicción: 22.35 µg/m³
+No se detectaron niveles de contaminación por encima de los límites.
+Recomendaciones:
+------------------------------------------------------------
+Zona: Zona_2
+CO2 actual: 450.00 ppm - Predicción: 443.84 ppm
+SO2 actual: 10.00 µg/m³ - Predicción: 18.74 µg/m³
+NO2 actual: 30.00 µg/m³ - Predicción: 36.30 µg/m³
+PM2.5 actual: 20.00 µg/m³ - Predicción: 24.62 µg/m³
+No se detectaron niveles de contaminación por encima de los límites.
+Recomendaciones:
+------------------------------------------------------------
+Zona: Zona_3
+CO2 actual: 450.00 ppm - Predicción: 428.08 ppm
+SO2 actual: 10.00 µg/m³ - Predicción: 16.42 µg/m³
+NO2 actual: 30.00 µg/m³ - Predicción: 32.57 µg/m³
+PM2.5 actual: 20.00 µg/m³ - Predicción: 22.35 µg/m³
+No se detectaron niveles de contaminación por encima de los límites.
+Recomendaciones:
+------------------------------------------------------------
+Zona: Zona_4
+CO2 actual: 450.00 ppm - Predicción: 443.84 ppm
+SO2 actual: 10.00 µg/m³ - Predicción: 18.74 µg/m³
+NO2 actual: 30.00 µg/m³ - Predicción: 36.30 µg/m³
+PM2.5 actual: 20.00 µg/m³ - Predicción: 24.62 µg/m³
+No se detectaron niveles de contaminación por encima de los límites.
+Recomendaciones:
+------------------------------------------------------------
+Zona: Zona_5
+CO2 actual: 450.00 ppm - Predicción: 428.08 ppm
+SO2 actual: 10.00 µg/m³ - Predicción: 16.42 µg/m³
+NO2 actual: 30.00 µg/m³ - Predicción: 32.57 µg/m³
+PM2.5 actual: 20.00 µg/m³ - Predicción: 22.35 µg/m³
+No se detectaron niveles de contaminación por encima de los límites.
+Recomendaciones:
+------------------------------------------------------------

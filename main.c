@@ -19,7 +19,8 @@ int main() {
         printf("3. Ver alertas\n");
         printf("4. Ver recomendaciones\n");
         printf("5. Exportar reporte\n");
-        printf("6. Salir\n");
+        printf("6. Ver promedios históricos (30 días)\n");
+        printf("7. Salir\n");  // Salir como última opción
         printf("Seleccione una opción: ");
         scanf("%d", &opcion);
         getchar();
@@ -65,6 +66,10 @@ int main() {
                 break;
 
             case 6:
+                mostrarPromediosHistoricos(zonas, NUM_ZONAS);
+                break;
+
+            case 7:
                 guardarDatos(zonas, NUM_ZONAS);
                 printf("Saliendo...\n");
                 break;
@@ -72,7 +77,7 @@ int main() {
             default:
                 printf("Opción inválida\n");
         }
-    } while(opcion != 6);
+    } while(opcion != 7);
 
     return 0;
 }
